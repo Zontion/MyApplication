@@ -10,6 +10,7 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.R
+import com.example.myapplication.activity.baseball.BaseBallActivity
 import com.example.myapplication.activity.friend.FriendActivity
 import com.example.myapplication.activity.stock.StockActivity
 import com.example.myapplication.model.MenuSingleton
@@ -89,6 +90,7 @@ class MainActivity : AppCompatActivity() {
             when (mData[position]) {
                 "列表:1" -> intent.setClass(context, StockActivity::class.java)
                 "列表:2" -> intent.setClass(context, FriendActivity::class.java)
+                "列表:3" -> intent.setClass(context, BaseBallActivity::class.java)
                 else -> return
             }
             context.startActivity(intent)

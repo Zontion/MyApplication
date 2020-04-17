@@ -20,6 +20,7 @@
         </activity>
         <activity android:name=".activity.stock.StockActivity"/>
         <activity android:name=".activity.friend.FriendActivity"/>
+        <activity android:name=".activity.baseball.BaseBallActivity"/>
     </application>
 
 </manifest>
