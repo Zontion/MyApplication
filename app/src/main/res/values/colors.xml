@@ -3,4 +3,17 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="title_bar">#008577</color>
+
+    <color name="color_red">#FF3333</color>
+    <color name="color_oragne">#FF8800</color>
+    <color name="color_yellow">#FFFF33</color>
+    <color name="color_green">#00FF99</color>
+    <color name="color_blue">#00BBFF</color>
+    <color name="color_purple">#7744FF</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <color name="color_stock_title">#81C0C0	</color>
 </resources>

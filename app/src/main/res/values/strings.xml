@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <string name="main_option">Option</string>
+
+    <string name="stock_name">Stock</string>
+
+    <string name="title_bar_unset">Unset</string>
+    <string name="title_bar_right">Right</string>
+
+    <string name="title_stock_name">名稱</string>
+    <string name="title_stock_code">代號</string>
+    <string name="title_stock_quantity">數量</string>
+    <string name="title_stock_price">金額</string>
 </resources>
